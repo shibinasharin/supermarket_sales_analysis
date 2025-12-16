@@ -2,7 +2,7 @@
 
 The aim of this project is to analyze supermarket sales data to uncover patterns in customer behavior, product performance, and sales trends. Through exploratory data analysis and visualizations, the project intends to identify key insights that can help improve business decisions related to marketing, inventory management, and customer satisfaction.
 # Objectives of the Project
-  •	To understand overall sales performance across branches and cities.
+    •	To understand overall sales performance across branches and cities.
 	•	To analyze customer behavior based on gender, customer type, and purchase patterns.
 	•	To compare product line performance and identify high-selling categories.
 	•	To examine factors affecting total sales such as quantity, unit price, and time.
